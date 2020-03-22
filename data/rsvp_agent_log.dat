@@ -255,7 +255,7 @@
 03/22 08:54:35 INFO   :..........rpapi_Reg_UnregFlow: ReadBuffer:  Exiting
 03/22 08:54:35 INFO   :..........rpapi_Reg_UnregFlow: RSVPRemActionName:  Result = 0
 03/22 08:54:35 INFO   :..........rpapi_Reg_UnregFlow: RSVPRemActionName:  Exiting
-03/22 08:54:35 INFO   :..........rpapi_Reg_UnregFlow: flow[sess=9.67.116.99:1047:6, 
+03/22 08:54:35 INFO   :..........rpapi_Reg_UnregFlow: flow[sess=9.67.116.99:1047:6,
 source=9.67.116.98:8000] unregistered from CLCat2
 03/22 08:54:35 EVENT  :..........qosmgr_response: DELRESP from qosmgr, reason=0, qoshandle=0
 03/22 08:54:35 INFO   :..........qosmgr_response: src-9.67.116.98:8000 dst-9.67.116.99:1047 proto-6
@@ -265,7 +265,7 @@ source=9.67.116.98:8000] unregistered from CLCat2
 03/22 08:54:35 TRACE  :........flow_timer_stop: Stop T4
 03/22 08:54:35 TRACE  :.......rsvp_flow_stateMachine: entering state SESSIONED
 03/22 08:54:35 TRACE  :........mailslot_send: sending to (9.67.116.99:0)
-03/22 08:54:35 TRACE  :......rsvp_event_propagate: flow[session=9.67.116.99:1047:6, 
+03/22 08:54:35 TRACE  :......rsvp_event_propagate: flow[session=9.67.116.99:1047:6,
 source=9.67.116.98:8000] ceased
 03/22 08:54:35 EVENT  :.....api_reader: api request CLOSE
 03/22 08:54:35 INFO   :.......rsvp_flow_stateMachine: state SESSIONED, event PATHTEAR
